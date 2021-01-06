@@ -12,7 +12,7 @@
   "author": "seiji villafranca",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "next": "^9.3.4",
     "next-redux-wrapper": "^5.0.0",
